@@ -7,16 +7,16 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ishanneupane](https://github.com/ishanneupane)
+- 👨‍💻 All of my projects are available at [ishanneupane](ishanneupane)
 
 - 💬 Ask me about **Flutter Dart**
 
-- 📫 How to reach me **https://www.facebook.com/druzun,https://www.linkedin.com/in/ishan-neupane/**
+- 📫 How to reach me **ishan-neupane**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishan-neupane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishan-neupane/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/druzun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/druzun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishan-neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-neupane" height="30" width="40" /></a>
+<a href="https://fb.com/druzun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="druzun" height="30" width="40" /></a>
 <a href="https://instagram.com/ishaanneupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishaanneupane" height="30" width="40" /></a>
 </p>
 
