@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter Dart**
 
-- 📫 How to reach me **ishan-neupane**
+- 📫 How to reach me **(https://www.linkedin.com/in/ishan-neupane/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
