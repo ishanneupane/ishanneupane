@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [(https://github.com/ishanneupane)https://github.com/ishanneupane](ishanneupane)
+- 👨‍💻 All of my projects are available at [(https://github.com/ishanneupane)]
 
 - 💬 Ask me about **Flutter Dart**
 
