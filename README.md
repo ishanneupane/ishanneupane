@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanneupane" alt="ishanneupane" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and JavaScript (backend)**
+- 🌱 I’m currently learning **Flutter and NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ishanneupane](https://github.com/ishanneupane)
 
