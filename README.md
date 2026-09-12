@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanneupane" alt="ishanneupane" /></a> </p>
 
-- 🌱 I’m  **Javascript + python(FullStack)** dev
+- 🌱 I’m  **Javascript + python(FullStack)** Developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ishanneupane](https://github.com/ishanneupane)
 
-- 💬 Ask me about **SQL,React,TypeScript,Flutter**
+- 💬 Ask me about **SQL,React,TypeScript,Flutter, Python**
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ishan-neupane/)
 
